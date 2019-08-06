@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\koral\source\repos\Calculator\Calculator\MyForm.h(294,1): warning C4996:  'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message :  zobacz deklarację „getch”
+C:\Users\koral\source\repos\Calculator\Calculator\MyForm.h(377,30): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\koral\source\repos\Calculator\Calculator\MyForm.h(395,30): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\koral\source\repos\Calculator\Calculator\MyForm.h(401,29): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\koral\source\repos\Calculator\Calculator\MyForm.h(407,29): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\koral\source\repos\Calculator\Calculator\MyForm.h(414,31): warning C4244:  "=": konwersja z "int" do "float", możliwa utrata danych
+  MyForm.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Calculator.vcxproj -> C:\Users\koral\source\repos\Calculator\Debug\Calculator.exe
